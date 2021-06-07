@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">nombre de la aplicación</string>
+    <string name="games_won">Juegos</string>
+    <string name="loser">perdedor</string>
+    <string name="computer">Computadora</string>
+    <string name="dice_total">Total de dados</string>
+    <string name="roll">Rodar</string>
+    <string name="Dice_Total">Total de dados</string>
+    <string name="you">" usted"</string>
+    <string name="winner">Ganador</string>
+    <string name="you_lost">" ¡PERDISTE!"</string>
+    <string name="turn_total">" Total de turnos "</string>
+    <string name="total_score">" Puntaje total"</string>
+    <string name="pig">CERDO</string>
+    <string name="hold">" Sostener"</string>
+    <string name="play_game">Jugar un juego</string>
+    <string name="score_log">Registro de puntuación</string>
+    <string name="show_leaderboard">Mostrar tabla de clasificación</string>
+</resources>
